@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mahmoud305/first-react/static/css/main.033c8206.chunk.css",
+    "main.js": "/mahmoud305/first-react/static/js/main.1d2ee1d2.chunk.js",
+    "main.js.map": "/mahmoud305/first-react/static/js/main.1d2ee1d2.chunk.js.map",
+    "runtime-main.js": "/mahmoud305/first-react/static/js/runtime-main.dcb97f01.js",
+    "runtime-main.js.map": "/mahmoud305/first-react/static/js/runtime-main.dcb97f01.js.map",
+    "static/css/2.431fc2f5.chunk.css": "/mahmoud305/first-react/static/css/2.431fc2f5.chunk.css",
+    "static/js/2.f4efaebe.chunk.js": "/mahmoud305/first-react/static/js/2.f4efaebe.chunk.js",
+    "static/js/2.f4efaebe.chunk.js.map": "/mahmoud305/first-react/static/js/2.f4efaebe.chunk.js.map",
+    "static/js/3.feb351ae.chunk.js": "/mahmoud305/first-react/static/js/3.feb351ae.chunk.js",
+    "static/js/3.feb351ae.chunk.js.map": "/mahmoud305/first-react/static/js/3.feb351ae.chunk.js.map",
+    "index.html": "/mahmoud305/first-react/index.html",
+    "static/css/2.431fc2f5.chunk.css.map": "/mahmoud305/first-react/static/css/2.431fc2f5.chunk.css.map",
+    "static/css/main.033c8206.chunk.css.map": "/mahmoud305/first-react/static/css/main.033c8206.chunk.css.map",
+    "static/js/2.f4efaebe.chunk.js.LICENSE.txt": "/mahmoud305/first-react/static/js/2.f4efaebe.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/mahmoud305/first-react/static/media/fa-solid-900.eeccf4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcb97f01.js",
+    "static/css/2.431fc2f5.chunk.css",
+    "static/js/2.f4efaebe.chunk.js",
+    "static/css/main.033c8206.chunk.css",
+    "static/js/main.1d2ee1d2.chunk.js"
+  ]
+}
